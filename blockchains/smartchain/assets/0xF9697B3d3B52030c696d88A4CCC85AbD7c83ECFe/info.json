@@ -1,6 +1,7 @@
-"name": "Proto Gold DAO",
+{
+  "name": "Proto Gold DAO",
 "website": "https://proto.gold/",
-"description": "LAW is the Governance in the first custom-built DAO Governered deflationary, charitable savings, and rewards protocol.",
+"description": "LAW is the Governance in the first custom-built on-chain DAO Governered deflationary, charitable savings, and rewards protocol.",
 "explorer": "https://bscscan.com/token/0xf9697b3d3b52030c696d88a4ccc85abd7c83ecfe",
 "type": "BEP20",
 "symbol": "LAW",
